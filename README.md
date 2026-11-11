@@ -2,6 +2,14 @@
 
 A static recreation of the Tea Cozy café website, built from a wireframe as a hands-on exercise in turning a visual layout into a responsive page. The wireframe provides the blueprint; the work is in translating its sections, spacing, imagery, and content into HTML and CSS that hold together across screen sizes.
 
+## Project origin
+
+<a href="https://www.codecademy.com/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/CodecademyLogo.png" alt="Codecademy logo" width="220">
+</a>
+
+This is a Codecademy project based on the Tea Cozy assignment. The supplied wireframe served as the visual guide for the page.
+
 ## From wireframe to webpage
 
 Rather than starting with an open-ended design, this project follows an existing visual plan. The page is organized into the same clear sequence a visitor would expect from a café website: a branded navigation bar, a mission statement, featured tea, shop locations, and contact details. CSS Flexbox brings the repeated content into flexible rows that can wrap as the viewport narrows.
